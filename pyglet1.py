@@ -1,4 +1,5 @@
-  
+
+
 '''Audio and video player with simple GUI controls.
 '''
   
